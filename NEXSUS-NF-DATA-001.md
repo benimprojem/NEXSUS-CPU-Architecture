@@ -1166,21 +1166,21 @@ bilgisini aktarması ile 1 GB verinin kendisini aktarması arasında büyük far
 
 Bu nedenle:
 
-\[
+$$\[
 T_{control} \ll T_{data}
-\]
+\]$$
 
 ve NEXSUS mümkün olduğunca:
 
-\[
+$$\[
 CPU\rightarrow GPU \approx CONTROL
-\]
+\]$$
 
 olmasını,
 
-\[
+$$\[
 MOSRAM\rightarrow GPU \approx DATA
-\]
+\]$$
 
 olmasını hedefler.
 
