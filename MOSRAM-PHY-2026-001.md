@@ -182,8 +182,7 @@ Gate gerilim değişimi:
 $$\[
 \Delta V_G=
 \frac{Q_G}{C_G}
-=
-\frac{N_e e}{C_G}
+=\frac{N_e e}{C_G}
 \]$$
 
 şeklindedir.
